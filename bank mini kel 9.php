@@ -80,7 +80,7 @@
         echo "Keterangan : $keterangan<br>";
         echo "Jumlah Stor/Penarikan: $jumlah<br>";
         echo "Terbilang: $terbilang<br>";
-        echo "Penggunaan Dana (Bagi Yang Memilih Opsi Penarikan): $penggunaan<br>";
+        echo "Penggunaan Dana: $penggunaan<br>";
         echo "Teller: $teller<br>";
     }
     ?>
